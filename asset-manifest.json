@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/castleCompany/static/css/main.8d203c42.chunk.css",
+    "main.js": "/castleCompany/static/js/main.ccf756b1.chunk.js",
+    "main.js.map": "/castleCompany/static/js/main.ccf756b1.chunk.js.map",
+    "runtime-main.js": "/castleCompany/static/js/runtime-main.99f60103.js",
+    "runtime-main.js.map": "/castleCompany/static/js/runtime-main.99f60103.js.map",
+    "static/css/2.11829350.chunk.css": "/castleCompany/static/css/2.11829350.chunk.css",
+    "static/js/2.6dc7e8dc.chunk.js": "/castleCompany/static/js/2.6dc7e8dc.chunk.js",
+    "static/js/2.6dc7e8dc.chunk.js.map": "/castleCompany/static/js/2.6dc7e8dc.chunk.js.map",
+    "index.html": "/castleCompany/index.html",
+    "precache-manifest.e502e9a276eb447326fe7aa44674b41e.js": "/castleCompany/precache-manifest.e502e9a276eb447326fe7aa44674b41e.js",
+    "service-worker.js": "/castleCompany/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/castleCompany/static/css/2.11829350.chunk.css.map",
+    "static/css/main.8d203c42.chunk.css.map": "/castleCompany/static/css/main.8d203c42.chunk.css.map",
+    "static/js/2.6dc7e8dc.chunk.js.LICENSE.txt": "/castleCompany/static/js/2.6dc7e8dc.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/castleCompany/static/media/bg.3ad1ea8a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99f60103.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.6dc7e8dc.chunk.js",
+    "static/css/main.8d203c42.chunk.css",
+    "static/js/main.ccf756b1.chunk.js"
+  ]
+}
