@@ -1,0 +1,39 @@
+body{
+  background: url("./img/bg.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin-top: 100px !important;
+  text-transform: uppercase;
+  font-weight: bold !important;
+}
+
+p{
+  span {
+    font-size: 30px;;
+  }
+  color: white;
+  font-size: 22px;
+  text-align: center;
+}
+
+.numberOfCastle{
+  span {
+    font-size: 40px;
+    font-weight: bold;
+  }
+  color: white;
+  font-size: 35px;
+  text-align: center;
+}
+
+button {
+  display: block !important;
+  margin: 30px auto !important;
+}
